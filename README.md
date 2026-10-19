@@ -157,27 +157,27 @@ pnpm test
 
 ## Documentation
 
-- **apps/client/README.md** — Client details
-- **apps/server/README.md** — Server details
-- **/document** — In-game calculation reference
+- `apps/client/README.md` — Client details
+- `apps/server/README.md` — Server details
+- `/document` — In-game calculation reference
 
 ---
 
 ## Development Status
 
-[x] Architecture planning
-[] Monorepo setup
-[] Auth (login/register)
-[] Server game loop + Socket.IO
-[] Drizzle schema
-[] Game page (PixiJS)
-[] Character summoning system
-[] Combat + weight system
-[] /document page
-[] Admin panel
-[] i18n setup (TH / EN / ZH / JA)
-[] Social features (level 20+)
-[] Fishing / Farming / Animal raising
+- [x] Architecture planning
+- [ ] Monorepo setup
+- [ ] Auth (login/register)
+- [ ] Server game loop + Socket.IO
+- [ ] Drizzle schema
+- [ ] Game page (PixiJS)
+- [ ] Character summoning system
+- [ ] Combat + weight system
+- [ ] /document page
+- [ ] Admin panel
+- [ ] i18n setup (TH / EN / ZH / JA)
+- [ ] Social features (level 20+)
+- [ ] Fishing / Farming / Animal raising
 
 ---
 
